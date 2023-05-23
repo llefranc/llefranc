@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Lucas 👋
+
+I'm an embedded developper from 42Paris who loves low level programming.
+
+- Languages: C, C++, Shell script, Java, JavaScript.  
+- Technologies: Gdb, Git, Linux, macOS, Android, Bluetooth, Docker, Kubernetes.
+
+:arrow_down: You will find below some of my favorite projects during my studies in 42 :arrow_down:
+
+
 
 <!--
 **llefranc/llefranc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
