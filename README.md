@@ -3,7 +3,7 @@
 - ⚡ I'm a french embedded developper living in Paris
 - 🔭 I'm actually studying in 42 school (level 20.04)
 - 🚀 I'm currently working on a heap memory allocator
-- ❤️ My favorite language is the most stylish language ever made : C language!
+- ❤️ In love with C language, the most beautiful language ever made
 
 <!--
 **llefranc/llefranc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
