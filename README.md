@@ -1,11 +1,12 @@
 ### Hi, I'm Lucas 👋
 
-I'm an embedded developper from 42 who loves low level programming.
+I'm an embedded developper who loves low level programming.
+I'm currently studying at 42 (level 20.04) !
 
 - Languages: C, C++, Shell script, Java, JavaScript.  
 - Technologies: Gdb, Git, Linux, macOS, Android, Bluetooth, Docker, Kubernetes.
 
-
+:rocket: Currently working on a heap memory allocator 
 
 
 <!--
