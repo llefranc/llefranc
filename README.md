@@ -1,6 +1,7 @@
 ### Hi, I'm Lucas 👋
 
 - ⚡ I'm a french embedded developper living in Paris
+- ⭐ I'm looking for a job with new challenges
 - 🔭 I'm actually studying in 42 school (level 20.04)
 - 🚀 I'm currently working on a heap memory allocator
 - ❤️ In love with C language
