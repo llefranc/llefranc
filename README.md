@@ -18,7 +18,6 @@ Take a look :thumbsup:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llefranc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llefranc&repo=42_ft_containers)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
