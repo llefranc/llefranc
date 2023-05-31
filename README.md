@@ -15,7 +15,7 @@ On my GitHup repository, you will find **my best 42 projects** between the follo
 - Network architecture  
 - DevOps  
 
-Take a look!
+Take a look :thumbsup:
 
 
 
