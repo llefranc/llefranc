@@ -9,15 +9,15 @@
 ## 42 Projects
 
 ### C
-- malloc
-- ft_ping
-- electronic_piscine
-- lem-ipc
-- push_swap
-- philosophers
-- minishell
-- cub3D
-- ft_printf
+- malloc: heap allocator
+- ft_ping: ICMP and IP protocols.
+- electronic_piscine: ATMega328P, UART/I2C/SPI, EEPROM...
+- lem-ipc: UNIX System V IPC.
+- push_swap: sorting algorithms.
+- philosophers: multithreading.
+- minishell: pipe, redirections, forkn and execve.
+- cub3D: raycasting with graphic library.
+- ft_printf: Dragon4 algorithm.
 - get_next_line
 - libft
 ### C++
