@@ -6,7 +6,16 @@
 - 🚀 I'm currently working on a heap memory allocator
 - ❤️ In love with C language
 
-Do not hesitate to take a look at my 42 projects!
+On my GitHup repository, you will find my best 42 projects between the following categories:  
+
+- Microcontroller programming (assembleur/C)
+- UNIX programming (C/C++)
+- Network architecture
+- DevOps
+
+Do not hesitate to take a look!  
+
+![Alt text](https://github.com/llefranc/llefranc/blob/main/holygraph_42.png)
 
 
 
