@@ -17,7 +17,7 @@ On my GitHup repository, you will find **my best 42 projects** between the follo
 
 Take a look :thumbsup:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llefranc)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
