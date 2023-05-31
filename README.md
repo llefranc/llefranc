@@ -8,6 +8,11 @@
 
 ## 42 projects
 
+
+On my GitHup repository, you will find **my best 42 school projects** between the following categories: microcontroller programming, UNIX programming, network architecture and DevOps.  
+
+Take a look :thumbsup:
+
 On my GitHup repository, you will find **my best 42 projects** between the following categories:  
 
 - Microcontroller programming (assembler/C)  
