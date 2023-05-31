@@ -12,10 +12,10 @@ On my GitHup repository, you will find **my best 42 projects** between the follo
 
 - Microcontroller programming (assembler/C)  
 - UNIX programming (C/C++)  
-- ➡️ Network architecture  
-- ➡️ DevOps  
+- Network architecture  
+- DevOps  
 
-Do not hesitate to take a look!  
+Take a look!  
 
 
 
