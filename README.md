@@ -10,10 +10,10 @@
 
 On my GitHup repository, you will find my best 42 projects between the following categories:  
 
-  ➡️ Microcontroller programming (assembler/C)  
-  ➡️ UNIX programming (C/C++)  
-  ➡️ Network architecture  
-  ➡️ DevOps  
+- ➡️ Microcontroller programming (assembler/C)  
+- ➡️ UNIX programming (C/C++)  
+- ➡️ Network architecture  
+- ➡️ DevOps  
 
 Do not hesitate to take a look!  
 
