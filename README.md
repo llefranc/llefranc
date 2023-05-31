@@ -6,7 +6,7 @@
 - 🚀 I'm currently working on a heap memory allocator
 - ❤️ In love with C language
 
-### 42 projects
+## 42 projects
 
 On my GitHup repository, you will find **my best 42 projects** between the following categories:  
 
