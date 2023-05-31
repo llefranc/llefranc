@@ -6,27 +6,49 @@
 - 🚀 I'm currently working on a heap memory allocator
 - ❤️ In love with C language
 
-## Projects
+## 42 Projects
 
-- taskmaster
-- lem-ipc
-- cub3D
-- ft_containers
-- electronic_piscine
-- inception
-- ft_services
-- ft_ping
+### C
 - malloc
-- webserv
-- containator
+- ft_ping
+- electronic_piscine
+- lem-ipc
 - push_swap
 - philosophers
-- ft_server
-- get_next_line
 - minishell
+- cub3D
 - ft_printf
+- get_next_line
 - libft
+### C++
+- taskmaster
+- webserv
+- ft_containers
+- containator
 - CPP_piscine
+### DevOps
+- inception
+- ft_services
+- ft_server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
