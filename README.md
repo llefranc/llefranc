@@ -8,10 +8,10 @@
 
 ### 42 projects
 
-On my GitHup repository, you will find my best 42 projects between the following categories:  
+On my GitHup repository, you will find **my best 42 projects** between the following categories:  
 
-- ➡️ Microcontroller programming (assembler/C)  
-- ➡️ UNIX programming (C/C++)  
+- Microcontroller programming (assembler/C)  
+- UNIX programming (C/C++)  
 - ➡️ Network architecture  
 - ➡️ DevOps  
 
