@@ -6,41 +6,7 @@
 - 🚀 I'm currently working on a heap memory allocator
 - ❤️ In love with C language
 
-## 42 Projects
-
-### C
-- malloc: heap allocator
-- ft_ping: ICMP and IP protocols.
-- electronic_piscine: ATMega328P, UART/I2C/SPI, EEPROM...
-- lem-ipc: UNIX System V IPC.
-- push_swap: sorting algorithms.
-- philosophers: multithreading.
-- minishell: pipe, redirections, forkn and execve.
-- cub3D: raycasting with graphic library.
-- ft_printf: Dragon4 algorithm.
-- get_next_line
-- libft
-### C++
-- taskmaster
-- webserv
-- ft_containers
-- containator
-- CPP_piscine
-### DevOps
-- inception
-- ft_services
-- ft_server
-
-
-
-
-
-
-
-
-
-
-
+Do not hesitate to take a look at my 42 projects!
 
 
 
