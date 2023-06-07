@@ -10,7 +10,7 @@
 
 On my GitHup repository, you will find **my best 42 projects** between the following categories:  
 
-- Microcontroller programming (assembler/C)  
+- Microcontroller programming (C)  
 - UNIX programming (C/C++)  
 - Network / DevOps  
 
