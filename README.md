@@ -1,9 +1,8 @@
 ## Hi, I'm Lucas 👋
 
 - ⚡ I'm a french embedded developper living in Paris
-- ⭐ I'm looking for a job with new challenges
-- 🔭 I'm actually studying in 42 school (level 20.04)
-- 🚀 I'm currently working on a heap memory allocator
+- 🔭 I've studied at 42 school in Paris (level 21.35)
+- 🚀 I'm currently working on an embedded medical device at Kickmaker
 - ❤️ In love with C language
 
 ## 42 projects
