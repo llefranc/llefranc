@@ -2,7 +2,7 @@
 
 - ⚡ I'm a french embedded developper living in Paris
 - 🔭 I've studied at 42 school in Paris (level 21.35)
-- 🚀 I'm currently working on an embedded medical device at Kickmaker
+- 🚀 I'm currently working at Kickmaker on an embedded medical device
 - ❤️ In love with C language
 
 ## 42 projects
