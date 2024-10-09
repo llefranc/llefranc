@@ -2,8 +2,8 @@
 
 - ⚡ I'm a french developper living in Paris
 - 🔭 I've studied at 42 school in Paris (level 21.35)
-- 🚀 I'm currently working at Kickmaker on an embedded medical device
-- ❤️ In love with C language
+- 🚀 I'm currently working at Kickmaker, doing a consulting mission for Bull on a supercomputer
+- - ❤️ In love with C/C++ languages
 
 ## 42 projects
 
