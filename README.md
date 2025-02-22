@@ -10,7 +10,7 @@
 On my GitHup repository, you will find **my best projects during my studies at 42 school** among the following categories:  
 
 - Microcontroller programming (C)  
-- UNIX programming (C/C++)  
+- Linux programming (C/C++)  
 - Network / DevOps  
 
 Take a look :thumbsup:
